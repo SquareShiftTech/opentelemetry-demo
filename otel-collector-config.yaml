@@ -7,7 +7,7 @@ exporters:
   logging:
 
   otlp:
-    endpoint: tempo-us-central1.grafana.net:443
+    endpoint: tempo-us-central1.grafana.net:443 ##Grafana cloud URL
     headers:
       authorization: Basic MjA3MjcxOmV5SnJJam9pTkdNeU9UZzBOalk1TnprMFlqbG1NR1UwWmpRME5HVmtaV0V3TTJOaFlqUmlaalEzTXpBMU1DSXNJbTRpT2lKemRXSmlkU0lzSW1sa0lqbzJORFEwTWpsOQ==    
 
