@@ -232,7 +232,7 @@ public class GetOrderImpl implements GetOrder {
                     "                  \"DaysLowQuantity\": 121,\n" +
                     "                  \"DaysHighQuantity\": 150,\n" +
                     "                  \"ExperiencesCount\": 1,\n" +
-                    "                  \"TotalAmount\": {\"$\": 920}\n" +
+                    "                  \"TotalAmount\": {\"$\": 10000000}\n" +
                     "                }]\n" +
                     "              }\n" +
                     "            }\n" +
